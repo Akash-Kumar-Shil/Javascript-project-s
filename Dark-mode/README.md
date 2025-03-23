@@ -5,6 +5,6 @@ click on the button to change the background color to dark or light.
 Or you can press the 't' key on your keyboard to toggle the background color.
 
 ## Dark mode
-![image](day.png)
+![image](Day.png)
 ## Light mode
 ![image](night.png)
